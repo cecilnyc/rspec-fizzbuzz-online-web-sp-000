@@ -1,4 +1,4 @@
-def fizzbuzz(int)
+def fizzbuzz(number)
   if fizz_3 = fizzbuzz(3)
     puts "Fizz"
   elseif fizz_5 = fizzbuzz(5)
