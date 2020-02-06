@@ -3,7 +3,7 @@ def fizzbuzz(number)
     "Fizz"
   elseif number % 5 == 0
     "Buzz"
-  elseif number  = fizzbuzz(15)
+  elseif number % 3 && 5 == 0
     puts "FizzBuzz"
   else fizz_4 = fizzbuzz(4)
     return nil
