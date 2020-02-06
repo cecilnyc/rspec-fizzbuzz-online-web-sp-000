@@ -1,4 +1,4 @@
-def fizzbuzz
+class fizzbuzz
 def fizz_(number)
   if number % 3 == 0
     "Fizz"
