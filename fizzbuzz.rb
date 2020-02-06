@@ -6,5 +6,5 @@ def fizzbuzz
   elseif fizz_15 = fizzbuzz(15)
     print "FizzBuzz"
   else fizz_4 = fizzbuzz(4)
-    return 
+    return nil
 end
