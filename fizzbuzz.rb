@@ -1,6 +1,6 @@
 def fizzbuzz(number)
-  if fizz_3 = fizzbuzz(3)
-    puts "Fizz"
+  if fizzbuzz
+    "Fizz"
   elseif fizz_5 = fizzbuzz(5)
     puts "Buzz"
   elseif fizz_15 = fizzbuzz(15)
