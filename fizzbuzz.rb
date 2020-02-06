@@ -5,6 +5,6 @@ def fizzbuzz
     puts "Buzz"
   elseif fizz_15 = fizzbuzz(15)
     puts "FizzBuzz"
-  elseif fizz_4 = fizzbuzz(4)
+  else fizz_4 = fizzbuzz(4)
     return nil
 end
