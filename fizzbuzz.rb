@@ -1,6 +1,6 @@
 def fizzbuzz
-  def fizz_3(fizzbuzz(3))
-  if fizzbuzz(0)
+  def fizzbuzz(3)
+  if fizzbuzz(3)
   elseif number % 3 == 0
     "Fizz"
   elseif number % 5 == 0
