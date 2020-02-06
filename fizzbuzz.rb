@@ -1,5 +1,5 @@
 def fizzbuzz
-  def number_3(number)
+  def fizz_3(number)
   if number % 3 == 0
     "Fizz"
   elseif number % 5 == 0
