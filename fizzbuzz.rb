@@ -11,6 +11,7 @@ def fizzbuzz
     if number % 3 == 0 && number % 5 == 0
     "FizzBuzz"
   end
-  else fizznumber
+  else fizz_4(number)
+    if number
  end
 end
