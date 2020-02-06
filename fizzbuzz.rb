@@ -8,5 +8,3 @@ def fizzbuzz(number)
   else number
     number
  end
- end
- end
