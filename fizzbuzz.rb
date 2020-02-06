@@ -1,4 +1,6 @@
-fizzbuzz_3 = fizzbuzz(3)
-def fizzbuzz(3)
+def fizzbuzz(int)
+  if int % 3 == "Fizz"
+  elseif int % 5 == "Buzz"
+  elseif int %
   
 end
