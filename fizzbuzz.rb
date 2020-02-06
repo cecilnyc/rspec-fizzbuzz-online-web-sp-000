@@ -1,10 +1,10 @@
 def fizzbuzz
   if fizz_3 = fizzbuzz(3)
-    print "Fizz"
+    puts "Fizz"
   elseif fizz_5 = fizzbuzz(5)
-    print "Buzz"
+    puts "Buzz"
   elseif fizz_15 = fizzbuzz(15)
-    print "FizzBuzz"
+    puts "FizzBuzz"
   else fizz_4 = fizzbuzz(4)
     return nil
 end
