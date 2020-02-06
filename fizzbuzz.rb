@@ -1,7 +1,7 @@
 def fizzbuzz(number)
   if number % 3 == 0
     "Fizz"
-  elseif fizz_5 = fizzbuzz(5)
+  elseif number % 5 == 0
     puts "Buzz"
   elseif fizz_15 = fizzbuzz(15)
     puts "FizzBuzz"
