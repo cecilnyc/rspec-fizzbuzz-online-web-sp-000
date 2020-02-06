@@ -8,4 +8,3 @@ def fizz(number)
     else (number)
     number
  end
-end
