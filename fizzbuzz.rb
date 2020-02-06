@@ -1,4 +1,4 @@
-uzzdef fizzb
+def fizzb
   def fizz_3(number)
   if number % 3 == 0
     "Fizz"
