@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  if fizzbuzz
+  if number % 3
     "Fizz"
   elseif fizz_5 = fizzbuzz(5)
     puts "Buzz"
