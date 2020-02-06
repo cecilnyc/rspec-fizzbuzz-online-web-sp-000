@@ -6,6 +6,8 @@ uzzdef fizzb
   def fizz_5(number)
     if number % 5 == 0
     "Buzz"
+  end
+  def
   elseif number % 3 == 0 && number % 5 == 0
     "FizzBuzz"
   else number
