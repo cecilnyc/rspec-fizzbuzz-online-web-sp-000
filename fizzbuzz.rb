@@ -1,5 +1,5 @@
 class fizzbuzz
-def self.checker(number)
+def fizz(number)
   if number % 3 == 0
     "Fizz"
   elsif number % 5 == 0
