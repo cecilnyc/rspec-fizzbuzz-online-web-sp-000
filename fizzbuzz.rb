@@ -1,4 +1,4 @@
-def fizzb
+def fizzbuzz
   def fizz_3(number)
   if number % 3 == 0
     "Fizz"
@@ -7,8 +7,10 @@ def fizzb
     if number % 5 == 0
     "Buzz"
   end
-  def fizz_15number % 3 == 0 && number % 5 == 0
+  def fizz_15(number)
+    if number % 3 == 0 && number % 5 == 0
     "FizzBuzz"
-  else number
+  end
+  else fizznumber
  end
 end
