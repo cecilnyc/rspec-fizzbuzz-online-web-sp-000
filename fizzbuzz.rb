@@ -7,8 +7,7 @@ def fizzb
     if number % 5 == 0
     "Buzz"
   end
-  def
-  elseif number % 3 == 0 && number % 5 == 0
+  def fizz_15number % 3 == 0 && number % 5 == 0
     "FizzBuzz"
   else number
  end
