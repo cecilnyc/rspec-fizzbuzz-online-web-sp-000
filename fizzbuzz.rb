@@ -12,6 +12,6 @@ def fizzbuzz
     "FizzBuzz"
   end
   else fizz_4(number)
-    if number
+    number
  end
 end
