@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-  if fizz_3 == fizzbuzz(3)
+  if fizzbuzz(3) = fizz_3
     puts "Fizz"
   elseif fizz_5 == fizzbuzz(5)
     puts "Buzz"
