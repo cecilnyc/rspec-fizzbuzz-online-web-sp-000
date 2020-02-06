@@ -9,3 +9,4 @@ def fizz(number)
   else number
  end
 end
+end
