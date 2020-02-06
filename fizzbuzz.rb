@@ -1,9 +1,8 @@
 def fizzbuzz
-  def fizz_3(number)
+  def fizz(number)
   if number % 3 == 0
     "Fizz"
-  end
-  def fizz_5(number)
+  elseif
     if number % 5 == 0
     "Buzz"
   end
